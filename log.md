@@ -1,29 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## Introduction
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+<img src="https://photos.google.com/share/AF1QipMpjznOQd0vyZfIBQ1LCGeaF0BbvNG5mNXMTWg2zSohvIvcFsbN63FwkDinlt9jsw/photo/AF1QipN5cGgh41t3tyeTyGoQmxXo3CyVsTNXhTpbsAv0?key=ak9Fckp4SnB0SFRmaVoxcnBzS3NmdllqNFBoMnNB" alt="Black bunting spelling out the words 'everyone can code!'">
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+*Photo by [Adi Goldstein](https://unsplash.com/@adigold1?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/code?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
-**Link to work:** [Calculator App](http://www.example.com)
+I'm starting a #100DaysOfCode challenge to motivate me to complete my FreeCodeCamp Responsive Web Design Certification. As part of the challenge, I'll be working thorough some of the FreeCodeCamp projects as well as the tutorials. I'm about halfway through the tutorials already, before I start this project.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+You can follow along with me on [Twitter](https://twitter.com/Ilaeria) or [GitHub](https://github.com/Ilaeria).
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: 11 December 2019
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: 
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
