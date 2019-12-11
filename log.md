@@ -2,10 +2,6 @@
 
 ## Introduction
 
-<img src="https://photos.google.com/share/AF1QipMpjznOQd0vyZfIBQ1LCGeaF0BbvNG5mNXMTWg2zSohvIvcFsbN63FwkDinlt9jsw/photo/AF1QipN5cGgh41t3tyeTyGoQmxXo3CyVsTNXhTpbsAv0?key=ak9Fckp4SnB0SFRmaVoxcnBzS3NmdllqNFBoMnNB" alt="Black bunting spelling out the words 'everyone can code!'">
-
-*Photo by [Adi Goldstein](https://unsplash.com/@adigold1?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/code?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
-
 I'm starting a #100DaysOfCode challenge to motivate me to complete my FreeCodeCamp Responsive Web Design Certification. As part of the challenge, I'll be working thorough some of the FreeCodeCamp projects as well as the tutorials. I'm about halfway through the tutorials already, before I start this project.
 
 You can follow along with me on [Twitter](https://twitter.com/Ilaeria) or [GitHub](https://github.com/Ilaeria).
@@ -13,9 +9,15 @@ You can follow along with me on [Twitter](https://twitter.com/Ilaeria) or [GitHu
 ### Day 1: 11 December 2019
 
 **Today's Progress**: 
+* Set up log project in GitHub.
+* Set up FreeCodeCamp Responsive Web Design tribute page project in GitHub. 
+* Set up workspace in VS Code.
+* Created skeleton HTML and CSS.
+* All FCC tribute page tests passing.
 
 **Thoughts**: 
+I went back and forth on what IDE to use and decided to just stick with simple VS Code for now. I was a bit frustrated getting everything to work and reminding myself how to use VS Code and GitHub but I got there in the end.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Links to work**
+1. [#100DaysOfCode log project](https://github.com/Ilaeria/100-days-of-code)
+2. [FreeCodeCamp Responsive Web Design Tribute page project](https://github.com/Ilaeria/FCC_RWDProject_Tribute)
