@@ -8,6 +8,21 @@ The log will be presented in reverse chronological order (latest updates at the 
 
 You can follow along with me on [Twitter](https://twitter.com/Ilaeria) or [GitHub](https://github.com/Ilaeria).
 
+### Day 3: 13 December 2019
+
+**Today's Progress**
+
+* Completed my tribute page.
+
+**Thoughts**
+It was really interesting to create the content for the page and to learn more about Ada Lovelace. I enjoyed the project.
+
+
+**Links to work**
+
+1. [#100DaysOfCode log project](https://github.com/Ilaeria/100-days-of-code)
+2. [FreeCodeCamp Responsive Web Design Tribute page project](https://github.com/Ilaeria/FCC_RWDProject_Tribute)
+
 ### Day 2: 12 December 2019
 
 **Today's Progress**
