@@ -22,6 +22,7 @@ It was really interesting to create the content for the page and to learn more a
 
 1. [#100DaysOfCode log project](https://github.com/Ilaeria/100-days-of-code)
 2. [FreeCodeCamp Responsive Web Design Tribute page project](https://github.com/Ilaeria/FCC_RWDProject_Tribute)
+3. [Completed tribute page](https://ilaeria.github.io/FCC_RWDProject_Tribute/)
 
 ### Day 2: 12 December 2019
 
