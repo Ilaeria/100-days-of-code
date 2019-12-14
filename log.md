@@ -8,6 +8,23 @@ The log will be presented in reverse chronological order (latest updates at the 
 
 You can follow along with me on [Twitter](https://twitter.com/Ilaeria) or [GitHub](https://github.com/Ilaeria).
 
+### Day 4: 14 December 2019
+
+**Today's Progress**
+
+* Set up GitHub Pages site.
+* Set up next FCC RWD project - build a survey form.
+* Started work on the survey form.
+* Completed FCC RWD Applied Visual Design module.
+
+**Thoughts**
+Making good progress with the FCC RWD modules - just applied accessibility, responsive web design principles, flexbox, and grid to go - and then the rest of the projects. I'm happy with my approach of doing a little bit of learning and a little bit of coding each day for this challenge.
+
+**Links to work**
+
+1. [#100DaysOfCode log project](https://github.com/Ilaeria/100-days-of-code)
+2. [FreeCodeCamp Responsive Web Design Survey page project](https://github.com/Ilaeria/FCC_RWDProject_Survey)
+
 ### Day 3: 13 December 2019
 
 **Today's Progress**
