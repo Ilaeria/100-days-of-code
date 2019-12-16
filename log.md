@@ -8,6 +8,25 @@ The log will be presented in reverse chronological order (latest updates at the 
 
 You can follow along with me on [Twitter](https://twitter.com/Ilaeria) or [GitHub](https://github.com/Ilaeria).
 
+## Logs
+
+### Day 5: 16 December 2019
+
+**Today's Progress**
+
+* Completed the next FCC RWD module: Applied Visual Design.
+* Completed the skeleton of my survey page. All tests now passing. Now it needs to be prettied up.
+
+**Thoughts**
+I missed my first day yesterday, for various reasons. I'm not going to beat myself up over it, but I've added a "Days missed" counter to the bottom of the log so I can still hold myself accountable.
+
+80s jams while coding make everything better.
+
+**Links to work**
+
+1. [#100DaysOfCode log project](https://github.com/Ilaeria/100-days-of-code)
+2. [FreeCodeCamp Responsive Web Design Survey page project](https://github.com/Ilaeria/FCC_RWDProject_Survey)
+
 ### Day 4: 14 December 2019
 
 **Today's Progress**
@@ -76,3 +95,6 @@ I went back and forth on what IDE to use and decided to just stick with simple V
 
 1. [#100DaysOfCode log project](https://github.com/Ilaeria/100-days-of-code)
 2. [FreeCodeCamp Responsive Web Design Tribute page project](https://github.com/Ilaeria/FCC_RWDProject_Tribute)
+
+## Days missed counter
+Days missed: 1
