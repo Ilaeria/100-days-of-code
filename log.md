@@ -14,7 +14,7 @@ You can follow along with me on [Twitter](https://twitter.com/Ilaeria) or [GitHu
 
 **Today's Progress**
 
-* Completed the next FCC RWD module: Applied Visual Design.
+* Completed the next FCC RWD module: Applied Accessibility.
 * Completed the skeleton of my survey page. All tests now passing. Now it needs to be prettied up.
 
 **Thoughts**
