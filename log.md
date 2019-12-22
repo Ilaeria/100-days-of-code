@@ -2,13 +2,28 @@
 
 ## Introduction
 
-I'm starting a #100DaysOfCode challenge to motivate me to complete my FreeCodeCamp Responsive Web Design Certification. As part of the challenge, I'll be working thorough some of the FreeCodeCamp projects as well as the tutorials. I'm about halfway through the tutorials already, before I start this project.
+I'm starting a #100DaysOfCode challenge to motivate me to complete my freeCodeCamp Responsive Web Design Certification. As part of the challenge, I'll be working thorough some of the freeCodeCamp projects as well as the tutorials. I'm about halfway through the tutorials already, before I start this project.
 
 The log will be presented in reverse chronological order (latest updates at the top).
 
 You can follow along with me on [Twitter](https://twitter.com/Ilaeria) or [GitHub](https://github.com/Ilaeria).
 
 ## Logs
+
+### Day 6: 22 December 2019
+
+**Today's Progress**
+
+* Completed the next FCC RWD module: Responsive Web Design Principles.
+* Continued prettying up my survey form.
+
+**Thoughts**
+I went a little off the rails this week, but it **is** the week before Christmas. In hindsight, maybe it wasn't a great idea to start this challenge at this time of year. Oh well! A few days off and now back in to it.
+
+**Links to work**
+
+1. [#100DaysOfCode log project](https://github.com/Ilaeria/100-days-of-code)
+2. [freeCodeCamp Responsive Web Design Survey page project](https://github.com/Ilaeria/FCC_RWDProject_Survey)
 
 ### Day 5: 16 December 2019
 
@@ -25,7 +40,7 @@ I missed my first day yesterday, for various reasons. I'm not going to beat myse
 **Links to work**
 
 1. [#100DaysOfCode log project](https://github.com/Ilaeria/100-days-of-code)
-2. [FreeCodeCamp Responsive Web Design Survey page project](https://github.com/Ilaeria/FCC_RWDProject_Survey)
+2. [freeCodeCamp Responsive Web Design Survey page project](https://github.com/Ilaeria/FCC_RWDProject_Survey)
 
 ### Day 4: 14 December 2019
 
@@ -42,7 +57,7 @@ Making good progress with the FCC RWD modules - just applied accessibility, resp
 **Links to work**
 
 1. [#100DaysOfCode log project](https://github.com/Ilaeria/100-days-of-code)
-2. [FreeCodeCamp Responsive Web Design Survey page project](https://github.com/Ilaeria/FCC_RWDProject_Survey)
+2. [freeCodeCamp Responsive Web Design Survey page project](https://github.com/Ilaeria/FCC_RWDProject_Survey)
 
 ### Day 3: 13 December 2019
 
@@ -57,7 +72,7 @@ It was really interesting to create the content for the page and to learn more a
 **Links to work**
 
 1. [#100DaysOfCode log project](https://github.com/Ilaeria/100-days-of-code)
-2. [FreeCodeCamp Responsive Web Design Tribute page project](https://github.com/Ilaeria/FCC_RWDProject_Tribute)
+2. [freeCodeCamp Responsive Web Design Tribute page project](https://github.com/Ilaeria/FCC_RWDProject_Tribute)
 3. [Completed tribute page](https://ilaeria.github.io/FCC_RWDProject_Tribute/)
 
 ### Day 2: 12 December 2019
@@ -75,14 +90,14 @@ Sure, the tests were passing, but the page looked rubbish. Spending some time on
 **Links to work**
 
 1. [#100DaysOfCode log project](https://github.com/Ilaeria/100-days-of-code)
-2. [FreeCodeCamp Responsive Web Design Tribute page project](https://github.com/Ilaeria/FCC_RWDProject_Tribute)
+2. [freeCodeCamp Responsive Web Design Tribute page project](https://github.com/Ilaeria/FCC_RWDProject_Tribute)
 
 ### Day 1: 11 December 2019
 
 **Today's Progress**
 
 * Set up log project in GitHub.
-* Set up FreeCodeCamp Responsive Web Design tribute page project in GitHub. 
+* Set up freeCodeCamp Responsive Web Design tribute page project in GitHub. 
 * Set up workspace in VS Code.
 * Created skeleton HTML and CSS.
 * All FCC tribute page tests passing.
@@ -94,7 +109,7 @@ I went back and forth on what IDE to use and decided to just stick with simple V
 **Links to work**
 
 1. [#100DaysOfCode log project](https://github.com/Ilaeria/100-days-of-code)
-2. [FreeCodeCamp Responsive Web Design Tribute page project](https://github.com/Ilaeria/FCC_RWDProject_Tribute)
+2. [freeCodeCamp Responsive Web Design Tribute page project](https://github.com/Ilaeria/FCC_RWDProject_Tribute)
 
 ## Days missed counter
-Days missed: 1
+Days missed: 6
