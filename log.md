@@ -18,6 +18,7 @@ You can follow along with me on [Twitter](https://twitter.com/Ilaeria) or [GitHu
 * Continued prettying up my survey form.
 
 **Thoughts**
+
 I went a little off the rails this week, but it **is** the week before Christmas. In hindsight, maybe it wasn't a great idea to start this challenge at this time of year. Oh well! A few days off and now back in to it.
 
 **Links to work**
@@ -33,6 +34,7 @@ I went a little off the rails this week, but it **is** the week before Christmas
 * Completed the skeleton of my survey page. All tests now passing. Now it needs to be prettied up.
 
 **Thoughts**
+
 I missed my first day yesterday, for various reasons. I'm not going to beat myself up over it, but I've added a "Days missed" counter to the bottom of the log so I can still hold myself accountable.
 
 80s jams while coding make everything better.
@@ -52,6 +54,7 @@ I missed my first day yesterday, for various reasons. I'm not going to beat myse
 * Completed FCC RWD Applied Visual Design module.
 
 **Thoughts**
+
 Making good progress with the FCC RWD modules - just applied accessibility, responsive web design principles, flexbox, and grid to go - and then the rest of the projects. I'm happy with my approach of doing a little bit of learning and a little bit of coding each day for this challenge.
 
 **Links to work**
@@ -66,6 +69,7 @@ Making good progress with the FCC RWD modules - just applied accessibility, resp
 * Completed my tribute page.
 
 **Thoughts**
+
 It was really interesting to create the content for the page and to learn more about Ada Lovelace. I enjoyed the project.
 
 
