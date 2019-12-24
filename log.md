@@ -26,6 +26,7 @@ Christmas week means a change of routine and I forget everything except Christma
 
 1. [#100DaysOfCode log project](https://github.com/Ilaeria/100-days-of-code)
 2. [freeCodeCamp Responsive Web Design Survey page project](https://github.com/Ilaeria/FCC_RWDProject_Survey)
+3. [Completed survey form](https://ilaeria.github.io/FCC_RWDProject_Survey/)
 
 ### Day 6: 22 December 2019
 
