@@ -10,6 +10,23 @@ You can follow along with me on [Twitter](https://twitter.com/Ilaeria) or [GitHu
 
 ## Logs
 
+### Day 7: 24 December 2019
+
+**Today's Progress**
+
+* Completed the next FCC RWD module: CSS Flexbox. Only CSS Grid to go in the lessons.
+* Completed my survey form enough to submit it. I might come back and make it better later.
+* Submitted survey form project. 2/5 Responsive Web Design Projects complete!
+
+**Thoughts**
+
+Christmas week means a change of routine and I forget everything except Christmas-related activities. So I missed another day yesterday. Oops!
+
+**Links to work**
+
+1. [#100DaysOfCode log project](https://github.com/Ilaeria/100-days-of-code)
+2. [freeCodeCamp Responsive Web Design Survey page project](https://github.com/Ilaeria/FCC_RWDProject_Survey)
+
 ### Day 6: 22 December 2019
 
 **Today's Progress**
@@ -116,4 +133,4 @@ I went back and forth on what IDE to use and decided to just stick with simple V
 2. [freeCodeCamp Responsive Web Design Tribute page project](https://github.com/Ilaeria/FCC_RWDProject_Tribute)
 
 ## Days missed counter
-Days missed: 6
+Days missed: 7
