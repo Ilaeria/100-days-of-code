@@ -10,6 +10,22 @@ You can follow along with me on [Twitter](https://twitter.com/Ilaeria) or [GitHu
 
 ## Logs
 
+### Day 8: 26 December 2019
+
+**Today's Progress**
+
+* Completed the FCC RWD CSS Grid module. Now the only thing left for this certification is the final 3 projects, so that will be my focus for #100DaysOfCode until I complete them.
+* Started setting up the next project: a product landing page.
+
+**Thoughts**
+
+Naturally, I had Christmas Day off. Hoping that is my last day off for a while though. I'm excited I've finished the learning modules for FCC RWD and can focus on the projects now.
+
+**Links to work**
+
+1. [#100DaysOfCode log project](https://github.com/Ilaeria/100-days-of-code)
+2. [freeCodeCamp Responsive Web Design Product landing page project](https://github.com/Ilaeria/FCC_RWDProject_Landing)
+
 ### Day 7: 24 December 2019
 
 **Today's Progress**
@@ -134,4 +150,4 @@ I went back and forth on what IDE to use and decided to just stick with simple V
 2. [freeCodeCamp Responsive Web Design Tribute page project](https://github.com/Ilaeria/FCC_RWDProject_Tribute)
 
 ## Days missed counter
-Days missed: 7
+Days missed: 8
